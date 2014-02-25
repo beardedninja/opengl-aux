@@ -23,5 +23,5 @@ Gem::Specification.new do |s|
   s.required_ruby_version = '~> 2.0'
 
   s.add_runtime_dependency 'opengl-core', '~> 2.0'
-  s.add_runtime_dependency 'snow-data', '~> 1.3', '>= 1.3.1'
+  s.add_runtime_dependency 'snow-data', '=> 1.3'
 end
